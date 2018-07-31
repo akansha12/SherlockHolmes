@@ -25,12 +25,12 @@ If the clients of the device found themselves in danger within the boundary or o
 
 
 Many types of smart devices are available in the world. Some devices for personal safety and some are for vehicle tracking. This project is design to be used in following situation:-
-•	Parents can locate missing or lost women, girl and children.
-•	This device is also helpful for old-age people especially the Alzheimer patients to stay in touch with their family members while they are away from home.
-•	This device can also do the tracking of vehicles and locate them when they are lost or stolen. 
-•	It will also help in reducing the problem of disappearance of ships in sea.
-•	With the help of this device parents can also track their children while they are away from home and also they can keep an eye on them while they are using any vehicle.
-•	In this propose device, one advance feature like SOS is available. It means in emergency case child or old women can press one single SOS button and ask for help from parents or person.
+-	Parents can locate missing or lost women, girl and children.
+-	This device is also helpful for old-age people especially the Alzheimer patients to stay in touch with their family members while they are away from home.
+-	This device can also do the tracking of vehicles and locate them when they are lost or stolen. 
+-	It will also help in reducing the problem of disappearance of ships in sea.
+-	With the help of this device parents can also track their children while they are away from home and also they can keep an eye on them while they are using any vehicle.
+-	In this propose device, one advance feature like SOS is available. It means in emergency case child or old women can press one single SOS button and ask for help from parents or person.
 
 ### Workflow 
 
